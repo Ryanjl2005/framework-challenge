@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/17/USAT/75722559007-usatsi-24485429.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100vh;
+  }
